@@ -1,7 +1,7 @@
 export const SITE = {
-  name: "AstroWind",
-  domain: "https://astrowind.vercel.app",
-  github: "https://github.com/onwidget/astrowind",
+  name: "Human Skills First",
+  domain: "https://humanskillsfirst.com",
+  github: "https://github.com/paoloalmeida/hsf",
 
   postsPerPage: 6,
 };
