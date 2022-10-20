@@ -15,7 +15,7 @@ Este projeto é **Open Source** ❤
 
 Então, toda contribuição é muito bem vinda! Somos apaixonados por compartilhar conhecimento e levamos isso como um *lifestyle*. Então, se você também ama contribuir com o aprendizado e crescimento de outras pessoas, está no lugar certo.
 
-# <a name="contribuindo"> Contribuindo com o projeto</a>
+# <a class="text-violet-700 dark:text-violet-400" name="contribuindo"> Contribuindo com o projeto</a>
 
 ### Você pode contribuir:
 
@@ -33,7 +33,7 @@ Nossa maior missão é democratizar conhecimento, e nosso propósito é impactar
 
 Focando principalmente em minimizar o problema da empregabilidade para o profissional que está iniciando no mercado de trabalho e no densevolvimento de empresas.
 
-# <a name="colaboracao">Colaboração</a>
+# <a class="text-violet-700 dark:text-violet-400" name="colaboracao">Colaboração</a>
 
 Lembrando que a contribuição recebida será analisada, e para ser aprovada deve estar de acordo com as boas práticas de contribuição. E é importante dizer, que o objetivo não é quantidade, e sim qualidade. Então antes de enviar o Pull Request, verifique alguns itens importantes:
 
@@ -44,7 +44,7 @@ Lembrando que a contribuição recebida será analisada, e para ser aprovada dev
   - Certifique-se de que sua contribuição está semântica e acessível.
 
 
-# <a name="sobre">Sobre o projeto</a>
+# <a class="text-violet-700 dark:text-violet-400" name="sobre">Sobre o projeto</a>
 
 O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://svelte.dev/) + [Netlify](https://app.netlify.com/).
  As documentação estão em Markdown e HTML, caso tenha dúvidas consulte [essa documentação](https://about.gitlab.com/handbook/markdown-guide/).

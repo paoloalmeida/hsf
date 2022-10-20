@@ -6,24 +6,24 @@ date: "09 Aug 2022"
 ---
 
 
-# <a name="para-a-empresa">Para a Empresa</a>
+# <a class="text-violet-700 dark:text-violet-400" name="para-a-empresa">Para a Empresa</a>
 
 Entenda os pilares e como implementar as estratégias do **HSF # START**.
 
-## <a name="estrutura-inicial">Estrutura inicial</a>
+## <a class="text-violet-700 dark:text-violet-400" name="estrutura-inicial">Estrutura inicial</a>
 
-**[S]trategic** - Ser estratégico, ter metas e objetivos claros
+**[S]trategic** - Ser estratégico, ter metas e objetivos claros.
 
-**[T]rackable** - Acompanhamento de métricas de evolução e Data Driven
+**[T]rackable** - Ser mensurável e de fácil acompanhamento de evolução.
 
-**[A]pplicable** - Tenha planos de ações aplicáveis para cada oportunidade
+**[A]pplicable** - Fácil aplicabilidade, guias e documentações para instrução.
 
-**[R]etention** - Reter, Inspirar e principalmente formar os melhores talentos.
+**[R]etention** - Reter, inspirar e principalmente formar os melhores talentos.
 
-**[T]echPower** - Poder tecnológico, times de desenvolvimento bem estruturado, autogerenciáveis e performáticos
+**[T]echPower** - Poder tecnológico, times de desenvolvimento escaláveis, inclusivos e colaborativos.
 
 --- 
-# <a name="strategic">[S]trategic</a>
+# <a class="text-violet-700 dark:text-violet-400" name="strategic">[S]trategic</a>
 ---
 
 Ter uma estratégia e um plano de evolução, com metas e objetivos claros é o primeiro passo para a implementação de uma cultura colaborativa e inclusiva.
@@ -113,23 +113,29 @@ Ter programas que incetinve vagas afirmativas para grupos de minorias, programas
 - [Diversidade e Inclusão: entenda a diferença e como promover nas empresas](https://fia.com.br/blog/diversidade-e-inclusao-nas-empresas/)
 - [Profissionais maduros: etarismo e mercado de trabalho](https://www.abrhbrasil.org.br/cms/o-etarismo-e-a-importancia-de-profissionais-maduros-no-mercado-de-trabalho/)
 
+<br /><br />
+
 ---
-# <a name="trackable">[T]rackable</a> - Em breve
+# <a class="text-violet-700 dark:text-violet-400" name="trackable">[T]rackable</a> - Em breve
 ---
 
 ## Plano de Desenvolvimento Individual - Em breve
 ## Feedbacks - Em breve
 
+<br /><br />
+
 ---
-# <a name="applicable">[A]pplicable</a> - Em breve
+# <a class="text-violet-700 dark:text-violet-400" name="applicable">[A]pplicable</a> - Em breve
 ---
 
 ## Onboarding - Em breve
 ## Programas de formação - Em breve
 ## Desenvolvimento de habilidades - Em breve
 
+<br /><br />
+
 ---
-# <a name="retention">[R]etention</a>
+# <a class="text-violet-700 dark:text-violet-400" name="retention">[R]etention</a>
 ---
 
 ## Work Life Balance
@@ -152,12 +158,13 @@ Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador
 
 ## Pesquisa de clima - Em breve
 ## NPS - Em breve
-## Construindo a cultura juntos - Em breve
 ## Dando voz às pessoas - Em breve
 ## All Hands - Compartilhe resultados - Em breve
 
+<br /><br />
+
 ---
-# <a name="techpower">[T]echPower</a>
+# <a class="text-violet-700 dark:text-violet-400" name="techpower">[T]echPower</a>
 ---
 
 Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendizado Contínuo e cultura Blameless.
@@ -167,11 +174,11 @@ Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendiz
 ### Red Flags - Em breve
 ### Rodadas de entrevista - Em breve
 
+## Miminizando riscos - Em breve
+
 ### Aprendizagem contínua - Em breve
 
-### Blameless / Postmortem - Em breve
-
-## Miminizando riscos - Em breve
+### Cultura Blameless / Postmortem - Em breve
 
 ### Minimizando erros e impactos de profissionais juniores - Em breve
 
@@ -181,15 +188,11 @@ Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendiz
 
 ### Esteira de testes - Em breve
 
-### Sêniores mentores - Em breve
+### Sêniores mentores - Em brevegst
 
 ### Mentoria coletiva - Em breve
 
 ### Eventos - Em breve
 
 ### Cultura & Código de conduta - Em breve
-
-
-
-
 
