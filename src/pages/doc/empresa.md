@@ -23,8 +23,8 @@ Entenda os pilares e como implementar as estratégias do **HSF # START**.
 **[T]echPower** - Poder tecnológico, times de desenvolvimento bem estruturado, autogerenciáveis e performáticos
 
 --- 
-
 # <a name="strategic">[S]trategic</a>
+---
 
 Ter uma estratégia e um plano de evolução, com metas e objetivos claros é o primeiro passo para a implementação de uma cultura colaborativa e inclusiva.
 
@@ -113,22 +113,24 @@ Ter programas que incetinve vagas afirmativas para grupos de minorias, programas
 - [Diversidade e Inclusão: entenda a diferença e como promover nas empresas](https://fia.com.br/blog/diversidade-e-inclusao-nas-empresas/)
 - [Profissionais maduros: etarismo e mercado de trabalho](https://www.abrhbrasil.org.br/cms/o-etarismo-e-a-importancia-de-profissionais-maduros-no-mercado-de-trabalho/)
 
-
-# [T]rackable
+---
+# <a name="trackable">[T]rackable</a> - Em breve
+---
 
 ## Plano de Desenvolvimento Individual - Em breve
 ## Feedbacks - Em breve
-## 
 
-# [A]pplicable
+---
+# <a name="applicable">[A]pplicable</a> - Em breve
+---
 
-## Onboarding
-## Estrutura de trilhas de conhecimento ou aprendizado na empresa
-## Trilhas de conhecimento / Área de Learning
-## Que a empresa saiba ouvir o colaborador
-## Bootcamps
+## Onboarding - Em breve
+## Programas de formação - Em breve
+## Desenvolvimento de habilidades - Em breve
 
-# [R]etention
+---
+# <a name="retention">[R]etention</a>
+---
 
 ## Work Life Balance
 Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador é fundamental, tenha programas de incentivo cultural, incentivo de atívidades fisicas, etc.
@@ -142,28 +144,21 @@ Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador
 
 - [Work-life balance: vida profissional e pessoal equilibrada](https://www.senior.com.br/blog/work-life-balance-vida-profissional-e-pessoal-equilibrada)
 
-
-
-
-### Questões
-Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador é fundamental, tenha programas de incentivo cultural, incentivo de atívidades fisicas, etc.
-
 ### Reflexões
 - O quanto a empresa acha essencial o bem estar das pessoas?
 - O que poderiam fazer para melhorar a vida pessoal e profissional da pessoa colaboradora?
 - A empresa faz dinâmicas de integrações em grupos?
 
-### Links
 
-- [Work-life balance: vida profissional e pessoal equilibrada](https://www.senior.com.br/blog/work-life-balance-vida-profissional-e-pessoal-equilibrada)
+## Pesquisa de clima - Em breve
+## NPS - Em breve
+## Construindo a cultura juntos - Em breve
+## Dando voz às pessoas - Em breve
+## All Hands - Compartilhe resultados - Em breve
 
-## Pesquisa de clima
-## NPS
-## Construindo a cultura juntos ## Dê voz às pessoas
-## ALL HANDS - Deixe seus colaboradores saberem desses pilares / objetivos / propósitos / Compartilhe resultados / Reforce esse aprendizado - 
-
-
-# [T]echPower
+---
+# <a name="techpower">[T]echPower</a>
+---
 
 Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendizado Contínuo e cultura Blameless.
 
@@ -171,11 +166,6 @@ Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendiz
 ### Time hábeis para entrevistas - Em breve
 ### Red Flags - Em breve
 ### Rodadas de entrevista - Em breve
-
-
-## Criando um time tech de cultura forte - Em breve
-
-### Conheça as Stacks e tecnologias utilizadas na empresa - Em breve
 
 ### Aprendizagem contínua - Em breve
 
@@ -196,6 +186,7 @@ Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendiz
 ### Mentoria coletiva - Em breve
 
 ### Eventos - Em breve
+
 ### Cultura & Código de conduta - Em breve
 
 
