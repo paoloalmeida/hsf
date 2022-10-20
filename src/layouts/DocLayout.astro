@@ -1,0 +1,32 @@
+---
+import MetaTags from "~/components/core/MetaTags.astro";
+import BasicScripts from "~/components/core/BasicScripts.astro";
+import Navigation from "~/components/widgets/Navigation.astro";
+import Header from "~/components/widgets/Header.astro";
+import Footer from "~/components/widgets/Footer.astro";
+import "~/assets/styles/base.css";
+import "~/assets/styles/doc.css";
+
+const { meta = {} } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <MetaTags {...meta} />
+  </head>
+
+  <body
+    class="antialiased text-gray-900 dark:text-slate-300 tracking-tight bg-white dark:bg-black"
+  >
+    <Header />
+    <Navigation />
+    <main>
+      <section class="doc-container py-3 px-3 mx-auto max-w-6xl md:px-4">
+        <slot />
+        <BasicScripts />
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -8,7 +8,7 @@ const { src: defaultImage } = await getImage({
 });
 
 const {
-  title = "AstroWind",
+  title = "Human Skills First | ",
   description = "",
   image = defaultImage,
   canonical,
@@ -45,13 +45,14 @@ const absoluteImageUrl = new URL(image, Astro.site);
 <meta name="twitter:image" content={absoluteImageUrl} />
 
 <!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
-  href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap"
+  href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&&display=swap"
   rel="stylesheet"
 />
-
 <!-- Google Site Verification -->
-<meta
+<!-- <meta
   name="google-site-verification"
   content="orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M"
-/>
+/> -->

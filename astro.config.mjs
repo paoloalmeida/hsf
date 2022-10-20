@@ -3,6 +3,8 @@ import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 import image from "@astrojs/image";
+import svelte from "@astrojs/svelte";
+import mdx from "@astrojs/mdx";
 
 import { SITE } from "./src/config.mjs";
 
@@ -19,5 +21,7 @@ export default defineConfig({
     }),
     sitemap(),
     image(),
+    svelte(),
+    mdx(),
   ],
 });

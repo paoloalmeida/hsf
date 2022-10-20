@@ -6,40 +6,47 @@ const {} = Astro.props;
 <section>
   <div class="max-w-6xl mx-auto px-4 sm:px-6">
     <div class="py-12 md:py-20">
-      <div class="text-center pb-12 md:pb-16">
-        <h1
-          class="text-5xl md:text-[3.50rem] font-bold leading-tighter tracking-tighter mb-4"
+      <Picture
+        class="inset-0 object-cover object-top rounded-md mx-auto mb-16"
+        src={import("~/assets/images/img-foguete.png")}
+        widths={[200, 200]}
+        sizes="(max-width: 50px) 50vw, 100px"
+        alt="Astronaut"
+        aspectRatio="50"
+      />
+      <h1
+        class="text-5xl text-center md:text-[3.50rem] font-bold leading-tighter tracking-tighter mb-4"
+      >
+        <span
+          class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-pink-500"
+          >human.skills.first
+        </span>
+      </h1>
+      <h2
+        class="font-raleway text-center text-3xl lg:text-4xl md:text-[2rem] leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-pink-300"
+      >
+        people > tech_
+      </h2>
+      <div class="max-w-3xl mx-auto text-center">
+        <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
+          Human Skills First, é um movimento com o mindset onde as habilidades
+          humanas tem seu papel fundamental no desenvolvimento profissional,
+          empresarial e principalmente no mercado de trabalho. Sendo por vezes,
+          de importância e relevância igual ou maior que as habilidades
+          técnicas.
+        </p>
+        <h2
+          class="text-2xl lg:text-1xl font-raleway md:text-[1.2rem] leading-tighter tracking-tighter mb-24 bg-clip-text"
         >
-          <span
-            class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-pink-500"
-            >Human Skills First
-          </span>
-        </h1>
-        <div class="max-w-3xl mx-auto">
-          <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-            O conceito Human Skills First, é uma abordagem baseada nos valores
-            humanos, onde as habilidades humanas são observadas, compreendidas,
-            e valorizadas. O propósito principal é democratizar e construir
-            culturas organizacionais baseada em valores humanos & ganha-ganha
-            para a Empresa e o Colaborador.<br /><br />
-          </p>
-          <div class="max-w-none flex justify-center">
-            <div>
-              <a
-                class="btn text-white bg-blue-600 hover:bg-blue-800 mb-4 sm:mb-0 font-bold"
-                href="#"
-                target="_blank"
-                rel="noopener"
-                >START Framework
-              </a>
-            </div>
-            <div>
-              <a
-                class="btn text-white bg-gray-900 hover:bg-gray-800 dark:bg-gray-700 dark:hover:bg-gray-800 ml-4"
-                href="https://github.com/paoloalmeida/human-skills-first"
-                >Contribuir
-              </a>
-            </div>
+          "Contrate caráter, treine habilidades" - Peter Schutz
+        </h2>
+        <div class="grid grid-cols-1 gap-6 lg:grid-cols-1">
+          <div>
+            <a
+              class="btn text-white bg-violet-700 hover:bg-blue-800 mb-4 sm:mb-0 font-bold w-full"
+              href="#start"
+              >Human Skill First # START
+            </a>
           </div>
         </div>
       </div>

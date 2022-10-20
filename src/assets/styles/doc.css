@@ -1,0 +1,28 @@
+.doc-container h3 {
+    font-size:1.2rem;
+    font-weight: bolder;
+    margin: 1rem 0;
+}
+.doc-container h1 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: bold;
+    letter-spacing:-1px;
+    margin: 1rem 0;
+}
+.doc-container h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing:-1px;
+    margin: 1rem 0;
+}
+.doc-container p{
+    margin: 1.5rem 0;
+}
+.doc-container a{
+    color:blueviolet;
+}
+.doc-container ul{
+    list-style:disc;
+    padding: 0 2rem;
+}
