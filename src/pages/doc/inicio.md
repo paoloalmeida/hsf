@@ -9,30 +9,30 @@ date: "20 Oct 2022"
 
 ## <a class="text-violet-700 dark:text-violet-400" name="o-que-e">O que é?</a>
 
-Baseado no mindset **Human Skills First**, o **HSF # START** é um framework que tem como objetivo facilitar a construção de uma cultura ganha-ganha para empresas e pessoas de tecnologia.
+Baseado no mindset **Human Skills First**, o **HSF # START** é um framework que tem como objetivo facilitar a construção de uma cultura ganha-ganha para empresas e pessoas de tecnologia. 
 
-Através de um Boilerplate, incentiva uma estrutura inicial para a implementação de boas práticas e ferramentas para o desenvolvimento e aprendizado do time.
+Para isso, o modelo conta com uma estrutura inicial, com propostas de implementação de boas práticas e ferramentas para o desenvolvimento e aprendizado do time.
 
-Para o profissional de tecnologia, o **HSF # START**, também fornece um mapa de Human Skills, trazendo a importância do desenvolvimento das habilidades comportamentais principalmente para o profissional junior.
+Para o profissional de tecnologia, o **HSF # START**, também fornece um mapa de Human Skills, trazendo a importância do desenvolvimento das habilidades comportamentais, principalmente para o profissional júnior.
 
-O objetivo deste framework **não** é ser uma *bala-de-prata* e solucionar todos os problemas, mas sim uma alternativa de mindset e ser um facilitador para decisões estratégicas em contratações e construções de culturas de times engajados, assim como ferramentas para viabilizar e otimizar as entregas técnicas do times. Corroborando principalmente com a inserção de novos profissionais de tecnologia no mercado de trabalho.
+O objetivo deste framework **não** é ser uma *bala-de-prata* e solucionar todos os problemas, mas sim uma alternativa de mindset e um facilitador para decisões estratégicas em contratações e construções de culturas de times engajados. E então, servir como ferramenta para viabilizar e otimizar as entregas técnicas do times, corroborando principalmente com a inserção de novos profissionais de tecnologia no mercado de trabalho.
 
 ## <a class="text-violet-700 dark:text-violet-400" name="missao-e-proposito">Missão e propósito</a>
 
-Nossa maior missão é democratizar conhecimento, e nosso propósito é impactar pessoas. Contribuindo para que as empresas possam ser um lugar melhor, promovendo capacitações e bem estar sem deixar de lado qualidade nas entregas técnicas. E também, para que as pessoas tenham oportunidades de se desenvolverem pessoalmente e profissionalmente.
-
-Focando principalmente em minimizar o problema da empregabilidade para o profissional que está iniciando no mercado de trabalho e no densevolvimento de empresas.
+Nossa maior missão é democratizar o conhecimento, e nosso propósito é impactar pessoas. 
+Nosso foco é contribuir para que as empresas possam ser um lugar melhor, promovendo capacitações e bem estar, sem deixar de lado qualidade nas entregas técnicas.
+Além disso, possibilitar que as pessoas tenham oportunidades de se desenvolverem pessoal e profissionalmente, focando principalmente em minimizar o problema da empregabilidade para o profissional que está iniciando no mercado de trabalho e no desenvolvimento das empresas.
 
 
 ## <a class="text-violet-700 dark:text-violet-400" name="por-que">Por que?</a>
 
 ### O mercado de trabalho e os profissionais de tecnologia precisam de ajuda!
 
-Temos um problema grande hoje no mercado de tecnologia como um todo, e eu quero compartilhar com você.
+Temos um problema grande hoje no mercado de tecnologia como um todo, e eu quero compartilhar ele com você!
 
-Talvez você já saiba, mas por um lado, temos demanda em larga escala para profissionais de tecnologia qualificados, e estima-se que até 2030 chegará a 1 milhão o número de déficit desses profissionais, segundo [Pesquisa da McKinsey](https://www.mckinsey.com/br/our-insights/all-insights/o-que-importa-para-atrair-e-reter-os-talentos-mais-disputados-do-mercado). Com as movimentações do mercado, empresas encontram dificuldades em contratar e reter bons profissionais de tecnologia.
+Talvez você já saiba, mas por um lado, temos demanda em larga escala para profissionais de tecnologia qualificados, e estima-se que até 2030 chegará a 1 milhão o número de déficit desses profissionais, segundo [Pesquisa da McKinsey](https://www.mckinsey.com/br/our-insights/all-insights/o-que-importa-para-atrair-e-reter-os-talentos-mais-disputados-do-mercado). Porém, com as movimentações do mercado, as empresas encontram dificuldade em contratar e reter bons profissionais de tecnologia.
 
-Por outro lado, muitos profissionais estão migrando ou iniciando em tecnologia, porém há uma grande barreira de entrada que dificulta a inserção do profissional junior no mercado de trabalho.
+Por outro lado, muitos profissionais estão migrando ou iniciando em tecnologia, mas há uma grande barreira de entrada que dificulta a inserção do profissional junior no mercado de trabalho. 
 
 ## <a class="text-violet-700 dark:text-violet-400" name="para-quem">Para quem?</a>
 
@@ -45,14 +45,14 @@ Esse framework foi desenvolvido inicialmente focado nestes 2 perfis:
 
 ### <a class="text-violet-700 dark:text-violet-400" name="empresa">Empresa</a>
 - Redução de tempo de contratação
-- Melhoria de retenção de profissionais
+- Melhoria na retenção de profissionais
 - Atração de talentos do mercado
 - Times com níveis técnicos equalizados
 - Descentralização e democratização de conhecimento
 
 ### <a class="text-violet-700 dark:text-violet-400" name="profissional">Profissional</a>
 - Maiores oportunidades de ingressar no mercado de tecnologia 
-- Evolução profissional apoiado e acompanhado pela empresa
+- Evolução profissional, apoiado e acompanhado pela empresa
 - Mentores para evolução acelerada
 - Desenvolver Habilidades Humanas e praticar
 
@@ -60,7 +60,7 @@ Esse framework foi desenvolvido inicialmente focado nestes 2 perfis:
 - Aumento do número de profissionais capacitados
 - Diminuição da falta de profissionais de tecnologia
 - Mais oportunidades de empregabilidade na área
-- Empresas com culturas baseada nos valores humanos
+- Empresas com culturas baseadas nos valores humanos
 - Desenvolvimento tecnológico e educacional do País
 
 ### #ajudeojunior #humanskillsfirst
