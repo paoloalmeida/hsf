@@ -17,8 +17,8 @@ Para o profissional de tecnologia, o HSF # START, também fornece um mapa de Hum
 
 
 # Sobre o projeto
-O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://svelte.dev/) + [Netlify](https://app.netlify.com/).
- As documentação estão em Markdown e HTML, caso tenha dúvidas consulte [essa documentação](https://about.gitlab.com/handbook/markdown-guide/).
+O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/).
+ A documentação está em Markdown e HTML, caso tenha dúvidas consulte [essa documentação](https://about.gitlab.com/handbook/markdown-guide/).
 
  ## Instalando localmente
 - Acesse o repositório [https://github.com/paoloalmeida/hsf](https://github.com/paoloalmeida/hsf)

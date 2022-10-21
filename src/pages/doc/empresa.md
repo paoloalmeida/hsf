@@ -1,8 +1,11 @@
 ---
 layout: ../../layouts/DocLayout.astro
+publishDate: "Aug 08 2022"
 title: "Para a Empresa"
-author: "Paolo Almeida"
-date: "09 Aug 2022"
+description: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+image: "~/assets/images/hero.jpg"
+category: "Tutorials"
+tags: [astro, tailwind css, front-end]
 ---
 
 
@@ -46,7 +49,8 @@ Cultura é o que a empresa vive no dia a dia. É a forma como conduz o modelo de
 
 ### Reflexões
 - Quais são os pilares culturais da empresa?
-- as pessoas colaboradoras tem acesso claro as essas informações?
+- Esses pilares levarão a empresa para o próximo nível?
+- As pessoas colaboradoras tem acesso claro as essas informações?
 
 ### Links 
 - Em breve
@@ -110,6 +114,12 @@ Ter programas que incetinve vagas afirmativas para grupos de minorias, programas
 - A empresa tem programas que incentivem a divesidade e inclusão?
 
 ### Links 
+- [Reprograma](https://www.reprograma.com.br/)
+- [Laboratoria](https://www.laboratoria.la/br)
+- [WOMAKERS CODE](https://www.maismulheres.tech/)
+- [Meninas Programadoras](https://meninasprogramadoras.icmc.usp.br/inicio)
+- [Code like a Girl_](https://usemobile.com.br/useacademy/)
+- [Minas Programam](https://minasprogramam.com/)
 - [Diversidade e Inclusão: entenda a diferença e como promover nas empresas](https://fia.com.br/blog/diversidade-e-inclusao-nas-empresas/)
 - [Profissionais maduros: etarismo e mercado de trabalho](https://www.abrhbrasil.org.br/cms/o-etarismo-e-a-importancia-de-profissionais-maduros-no-mercado-de-trabalho/)
 
@@ -119,6 +129,7 @@ Ter programas que incetinve vagas afirmativas para grupos de minorias, programas
 # <a class="text-violet-700 dark:text-violet-400" name="trackable">[T]rackable</a> - Em breve
 ---
 
+## Por exemplo
 ## Plano de Desenvolvimento Individual - Em breve
 ## Feedbacks - Em breve
 
