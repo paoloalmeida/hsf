@@ -19,7 +19,7 @@ Entenda os pilares e como implementar as estratégias do **HSF # START**.
 
 **[T]rackable** - Ser mensurável e de fácil acompanhamento de evolução.
 
-**[A]pplicable** - Fácil aplicabilidade, guias e documentações para instrução.
+**[A]pplicable** - Fácil aplicabilidade, com guias e documentações para instrução.
 
 **[R]etention** - Reter, inspirar e principalmente formar os melhores talentos.
 
@@ -32,11 +32,11 @@ Entenda os pilares e como implementar as estratégias do **HSF # START**.
 Ter uma estratégia e um plano de evolução, com metas e objetivos claros é o primeiro passo para a implementação de uma cultura colaborativa e inclusiva.
 
 ## Autoanálise
-Conhecer a empresa, a atuação dos times e como eles podem se complementar é fundamental. Então, neste passo é fazer uma autoanálise da empresa e como está estruturado a área de tecnologia.
+Conhecer a empresa, a atuação dos times e como eles podem se complementar é fundamental. Então, este passo é fazer uma autoanálise da empresa e entender como está estruturada a área de tecnologia.
 
 ### Reflexões
-- Como está estruturado os times?
-- Qual a importância de tecnologia para a alta gestão?
+- Como estão estruturados os times?
+- Qual a importância da tecnologia para a alta gestão?
 - Quais os diferencias competitivos dos times?
 - Quais são os próximos passos?
 - A empresa é transparente em relação aos seus objetivos com as pessoas colaboradoras?
@@ -45,18 +45,17 @@ Conhecer a empresa, a atuação dos times e como eles podem se complementar é f
 - Em breve
 
 ## Pilares culturais
-Cultura é o que a empresa vive no dia a dia. É a forma como conduz o modelo de trabalho e a inter-relações entre Colaboradores e Empresa. Ter esses pilares culturais bem estabelecidos e alinhados com as pessoas colaboradoras, é essencial.
+Cultura é o que a empresa vive no dia a dia. É a forma como conduz o modelo de trabalho e as inter-relações entre Colaboradores e Empresa. Ter esses pilares culturais bem estabelecidos e alinhados com as pessoas colaboradoras é essencial.
 
 ### Reflexões
 - Quais são os pilares culturais da empresa?
-- Esses pilares levarão a empresa para o próximo nível?
-- As pessoas colaboradoras tem acesso claro as essas informações?
+- As pessoas colaboradoras tem acesso claro a essas informações?
 
 ### Links 
 - Em breve
 
 ## Propósito
-Alinhar os propósitos reais da empresa e das pessoas colaboradoras, pode ser um bom caminho de conexão e engajamento.
+Alinhar os propósitos reais da empresa e das pessoas colaboradoras é um bom caminho para gerar conexão e engajamento.
 
 ### Reflexões
 - Quais são os propósitos da empresa?
@@ -68,11 +67,11 @@ Alinhar os propósitos reais da empresa e das pessoas colaboradoras, pode ser um
 - Em breve
 
 ## Contrate profissionais juniores
-Um dos principais pontos da estratégia, é dar oportunidades para profissionais em desenvolvimento, junto com uma jornada de capacitação para que a empresa e profissional gerencie e potencialize o aprendizado e entregas técnicas, de acordo com ambos propósitos.
+Um dos principais pontos da estratégia é dar oportunidades para profissionais em desenvolvimento, em conjunto com uma jornada de capacitação. Desta forma, a empresa e o profissional poderão gerenciar e potencializar o aprendizado e as entregas técnicas, de acordo com ambos propósitos.
 
 ### Reflexões
 - Os profissionais juniores contratados terão vivência com profissionais seniores?
-- Há um plano de acompanhamento e desenvolvimento para o profissional junior?
+- Há um plano de acompanhamento e desenvolvimento para o profissional júnior?
 - A empresa disponibiliza ferramentas para capacitação dos profissionais juniores?
 - A empresa está ciente da curva de aprendizado?
 
@@ -81,10 +80,10 @@ Um dos principais pontos da estratégia, é dar oportunidades para profissionais
 - [Desenvolvedor Júnior: confira 10 vantagens em contratar](https://blog.revelo.com.br/contratar-desenvolvedor-junior/)
 
 ## Programas de capacitação e aceleramento
-Uma das melhores formas de contratar profissionais em desenvolvimento e com fit cultural é através de programas de aceleramento. Podendo ser desenvolvido pela própria empresa como:
+Uma das melhores formas de contratar profissionais em desenvolvimento e com fit cultural é através de programas de aceleramento. E estes programas podem ser desenvolvidos pela própria empresa, como:
 - Programas de capacitação
-- Bootcamp
-- Programa de estágio
+- Bootcamps
+- Programas de estágio
 
 Ou através de pessoas e grupos que já fazem esse trabalho, inclusive olhando para questões de diversidade e inclusão como o [ElasProgramam](https://www.elasprogramam.com.br/).
 
@@ -97,7 +96,7 @@ Ou através de pessoas e grupos que já fazem esse trabalho, inclusive olhando p
 - [Alura](https://www.alura.com.br/)
 
 ## Democratização e descentralização do conhecimento
-Criar uma cultura organizacional, incentivando a colaboratividade e e a democratização do conhecimento, é um dos principais passos para difundir conhecimento interno em grande escala.
+Criar uma cultura organizacional, incentivando a colaboratividade e a democratização do conhecimento, é um dos principais passos para difundir conhecimento interno em grande escala.
 
 ### Reflexões
 - A empresa está promovendo e fomentando a democratização de conhecimento?
@@ -107,11 +106,11 @@ Criar uma cultura organizacional, incentivando a colaboratividade e e a democrat
 - Em breve
 
 ## Inclusão e Diversidade
-Ter programas que incetinve vagas afirmativas para grupos de minorias, programas de formação, e eventos com foco em inclusão é fundamental para que se crie uma cultura diversa e inclusiva.
+Ter programas que incetinvem vagas afirmativas para grupos de minorias, programas de formação e eventos com foco em inclusão são fundamentais para que se crie uma cultura diversa e inclusiva.
 
 ### Reflexões
 - A empresa tem programas ou vagas afirmativas para mulheres?
-- A empresa tem programas que incentivem a divesidade e inclusão?
+- Como a empresa incentiva a divesidade e inclusão?
 
 ### Links 
 - [Reprograma](https://www.reprograma.com.br/)
@@ -150,7 +149,7 @@ Ter programas que incetinve vagas afirmativas para grupos de minorias, programas
 ---
 
 ## Work Life Balance
-Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador é fundamental, tenha programas de incentivo cultural, incentivo de atívidades fisicas, etc.
+Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador é fundamental! Tenha programas de incentivo cultural, incentivo de atívidades físicas, etc.
 
 ### Reflexões
 - O quanto a empresa acha essencial o bem estar das pessoas?
@@ -160,12 +159,6 @@ Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador
 ### Links
 
 - [Work-life balance: vida profissional e pessoal equilibrada](https://www.senior.com.br/blog/work-life-balance-vida-profissional-e-pessoal-equilibrada)
-
-### Reflexões
-- O quanto a empresa acha essencial o bem estar das pessoas?
-- O que poderiam fazer para melhorar a vida pessoal e profissional da pessoa colaboradora?
-- A empresa faz dinâmicas de integrações em grupos?
-
 
 ## Pesquisa de clima - Em breve
 ## NPS - Em breve
@@ -178,7 +171,7 @@ Incentivar e apoiar o equilíbrio entre o trabalho e vida pessoal do colaborador
 # <a class="text-violet-700 dark:text-violet-400" name="techpower">[T]echPower</a>
 ---
 
-Profissionais buscam locais de trabalho seguro, que incentive e apoie o Aprendizado Contínuo e cultura Blameless.
+Profissionais buscam locais de trabalho seguros, que incentivem e apoiem o Aprendizado Contínuo e a Cultura Blameless.
 
 ## Entrevistas - Em breve
 ### Time hábeis para entrevistas - Em breve
