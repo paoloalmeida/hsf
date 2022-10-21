@@ -27,9 +27,8 @@ Lembrando que a contribuição recebida será analisada, e para ser aprovada dev
 - Seguir o passo a passo para instalação do projeto
 - Seguir boas práticas de contribuição
 - Abrir o Pull Request com as seguintes informações:
-  - Qual é o valor agregado com sua contribuição?
+  - Como você espera que sua contribuição agregue valor ao projeto?
   - Certifique-se de que sua contribuição está semântica e acessível.
-  - Explique para nós brevemente como sua contribuição irá agregar para a empresa ou profissional?
 
 
 # Sobre o projeto
@@ -41,7 +40,7 @@ O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://
 - Editor de texto - [VSCode](https://code.visualstudio.com/)
 
 
-## Instalando local
+## Instalando localmente
 - Acesse o repositório [https://github.com/paoloalmeida/hsf](https://github.com/paoloalmeida/hsf)
 - Clone o projeto `git clone git@github.com:paoloalmeida/hsf.git`
 - Instale as dependências `npm i`

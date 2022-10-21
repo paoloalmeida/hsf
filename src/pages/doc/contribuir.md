@@ -62,7 +62,7 @@ O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://
 
 ## Abrindo Pull Request
 - Para enviar suas contribuições, crie uma branch.
-- Faça o commit utilizando boas praticas do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Ex: "doc(empresa): adicionado texto X"
+- Faça o commit utilizando boas praticas do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Ex: "doc(home): adicionado texto X"
 - Adicione as informações na descrição do PR
 - Clique em Create pull request
 - Pronto, agora só aguardar a revisão.
