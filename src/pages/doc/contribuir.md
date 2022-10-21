@@ -13,7 +13,7 @@ date: "20 Oct 2022"
 
 Este projeto é **Open Source** ❤
 
-Então, toda contribuição é muito bem vinda! Somos apaixonados por compartilhar conhecimento e levamos isso como um *lifestyle*. Então, se você também ama contribuir com o aprendizado e crescimento de outras pessoas, está no lugar certo.
+Então, toda contribuição é muito bem vinda! Aqui somos apaixonados por compartilhar conhecimento e levamos isso como um *lifestyle*. Então, se você também ama contribuir com o aprendizado e crescimento de outras pessoas, está no lugar certo.
 
 # <a class="text-violet-700 dark:text-violet-400" name="contribuindo"> Contribuindo com o projeto</a>
 
@@ -22,23 +22,22 @@ Então, toda contribuição é muito bem vinda! Somos apaixonados por compartilh
 - Primeiramente, compartilhando este projeto para alcançarmos e ajudarmos mais empresas e pessoas ❤
 - Corrigindo textos
 - Traduzindo para outros idiomas
-- Adicionando novos conteúdos como links, ferramentas, imagens.
+- Adicionando novos conteúdos como links, ferramentas, imagens
 - Abrindo uma issue e reportando algum bug ou melhoria
 - Deixando seu [Feedback Aqui](mailto:paolo.2frame@gmail.com) :)
 
-### Antes de contribuir
-Gostaria de abrir o plano com você. Não é sobre mim, não é sobre você, nem sobre empresas... O propósito é: *Pessoas*.
+### Antes de contribuir:
+Gostaríamos de abrir o plano com você. Não é sobre mim, não é sobre você, nem sobre empresas... O propósito é sobre *Pessoas*.
 
-Nossa maior missão é democratizar conhecimento, e nosso propósito é impactar pessoas. Contribuindo para que as empresas possam ser um lugar melhor, promovendo capacitações e bem estar sem deixar de lado qualidade nas entregas técnicas. E também, para que as pessoas tenham oportunidades de se desenvolverem pessoalmente e profissionalmente.
-
-Focando principalmente em minimizar o problema da empregabilidade para o profissional que está iniciando no mercado de trabalho e no densevolvimento de empresas.
+Nossa maior missão é democratizar o conhecimento, e nosso propósito é impactar pessoas, contribuindo para que as empresas possam ser um lugar melhor, promovendo capacitações e bem estar, sem deixar de lado a qualidade nas entregas técnicas.
+Além disso, trabalhamos para que as pessoas tenham oportunidades de se desenvolverem pessoal e profissionalmente, focando principalmente em minimizar o problema da empregabilidade para o profissional que está iniciando no mercado de trabalho e no densevolvimento de empresas.
 
 # <a class="text-violet-700 dark:text-violet-400" name="colaboracao">Colaboração</a>
 
-Lembrando que a contribuição recebida será analisada, e para ser aprovada deve estar de acordo com as boas práticas de contribuição. E é importante dizer, que o objetivo não é quantidade, e sim qualidade. Então antes de enviar o Pull Request, verifique alguns itens importantes:
+É importante lembrar que a contribuição recebida será analisada, e para ser aprovada deve estar de acordo com as boas práticas de contribuição. Ah, e é importante dizer que o objetivo não é a quantidade, mas sim a qualidade! Então, antes de enviar o Pull Request, verifique alguns itens importantes:
 
 - Seguir o passo a passo para instalação do projeto
-- Seguir boas práticas de contribuição
+- Seguir as boas práticas de contribuição
 - Abrir o Pull Request com as seguintes informações na descrição:
   - Como você espera que sua contribuição agregue valor ao projeto?
   - Certifique-se de que sua contribuição está semântica e acessível.
@@ -47,7 +46,7 @@ Lembrando que a contribuição recebida será analisada, e para ser aprovada dev
 # <a class="text-violet-700 dark:text-violet-400" name="sobre">Sobre o projeto</a>
 
 O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://svelte.dev/) + [Netlify](https://app.netlify.com/).
- As documentação estão em Markdown e HTML, caso tenha dúvidas consulte [essa documentação](https://about.gitlab.com/handbook/markdown-guide/).
+ As documentações estão em Markdown e HTML, caso tenha dúvidas consulte [essa documentação](https://about.gitlab.com/handbook/markdown-guide/).
 
 ## Pré requisitos
 - Node 16+
@@ -61,19 +60,19 @@ O projeto foi desenvolvido com [Astro](https://astro.build/) + [Svelte](https://
 - Execute o projeto `npm start`
 
 ## Abrindo Pull Request
-- Para enviar suas contribuições, crie uma branch.
-- Faça o commit utilizando boas praticas do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Ex: "doc(home): adicionado texto X"
+- Para enviar suas contribuições, crie uma branch
+- Faça o commit utilizando boas práticas do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Ex: "doc(home): adicionado texto X"
 - Adicione as informações na descrição do PR
 - Clique em Create pull request
-- Pronto, agora só aguardar a revisão.
+- Pronto, agora só aguardar a revisão
 - Obrigado pela contribuição :)
 
 ### Próximos Passos?
 
 - [ ] Incluir novos conteúdos
 - [ ] Testes de acessibilidade
-- [ ] Revisão ortografia
-- [ ] Inserir gifs de exemplo na documentação
+- [ ] Revisão de ortografia
+- [ ] Inserir gifs de exemplos na documentação
 - [ ] Detalhar como contribuir
 - [ ] Traduzir para inglês
 
